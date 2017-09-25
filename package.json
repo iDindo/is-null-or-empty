@@ -1,0 +1,19 @@
+{
+  "name": "is-null-or-empty",
+  "version": "1.0.0",
+  "description": "Checks whether a given string is null or empty.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iDindo/is-null-or-empty.git"
+  },
+  "author": "NBU",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iDindo/is-null-or-empty/issues"
+  },
+  "homepage": "https://github.com/iDindo/is-null-or-empty#readme"
+}
